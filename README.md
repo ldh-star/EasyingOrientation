@@ -29,6 +29,16 @@ dependencies {
 
 #### Step 3. Usage
 
+##### In manifest
+```xml
+
+<activity
+    ...
+    android:screenOrientation="portrait"
+    .../>
+
+```
+
 ##### In your activity
 ```kotlin
 
